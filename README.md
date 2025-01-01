@@ -1,4 +1,6 @@
 hotel booking cancellation
+
+
 Overview
 This project performs an in-depth analysis of hotel booking data to understand the factors leading to cancellations. By exploring customer behavior, booking trends, and other key metrics, the analysis provides actionable insights for better decision-making in the hospitality industry.
 
